@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Nasa</string>
+    <string name="astronomy_picture_of_the_day">Astronomy Picture of the Day</string>
+    <string name="search">SEARCH</string>
+    <string name="display_image">display media</string>
+    <string name="network_error_message">ERROR!! PLEASE TRY AGAIN OR CHECK INTERNET</string>
+    <string name="no_data_available">No data available</string>
+</resources>
